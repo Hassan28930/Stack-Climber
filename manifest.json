@@ -1,0 +1,11 @@
+{
+  "name": "Stack Climber",
+  "short_name": "Stack Climber",
+  "description": "Hyper-casual one-tap block stacking game built for YouTube Playables.",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "display": "fullscreen",
+  "background_color": "#05070f",
+  "theme_color": "#0b1020",
+  "start_url": "./index.html"
+}
